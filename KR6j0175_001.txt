@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:18.014063
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:28
 #+TITLE: 孔雀王呪經
 #+PROPERTY: CBETA_ID T19n0988
 #+PROPERTY: ID KR6j0175
